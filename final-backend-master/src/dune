@@ -1,0 +1,11 @@
+(library
+ (name src)
+ (public_name backend)
+ (libraries
+  irmin-unix
+  yojson
+  opium
+  opium-testing
+  mirage-crypto
+  mirage-crypto-rng
+  mirage-crypto-rng.lwt))

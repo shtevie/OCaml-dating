@@ -1,0 +1,245 @@
+[
+  {
+    "text": "Do you like pineapple on pizza?",
+    "choices": [
+      {
+        "text": "yes"
+      },
+      {
+        "text": "no"
+      }
+    ]
+  },
+  {
+    "text": "Is avocado toast overrated?",
+    "choices": [
+      {
+        "text": "yes"
+      },
+      {
+        "text": "no"
+      }
+    ]
+  },
+  {
+    "text": "Are these questions interesting?",
+    "choices": [
+      {
+        "text": "yes"
+      },
+      {
+        "text": "and yes"
+      }
+    ]
+  },
+  {
+    "text": "Do you like anchovies on pizza?",
+    "choices": [
+      {
+        "text": "yes"
+      },
+      {
+        "text": "no"
+      }
+    ]
+  },
+  {
+    "text": "Does durian taste good?",
+    "choices": [
+      {
+        "text": "yes"
+      },
+      {
+        "text": "no"
+      },
+      {
+        "text": "never had it"
+      }
+    ]
+  },
+  {
+    "text":"is cereal a soup?",
+    "choices": [
+      {
+        "text": "yes"
+      }, 
+      {
+        "text": "no"
+      }
+    ]
+  },
+  {
+    "text":"milk before cereal or cereal before milk",
+    "choices": [
+      {
+        "text": "milk before"
+      }, 
+      {
+        "text": "cereal before"
+      }
+    ]
+  },
+  {
+    "text":"is a hotdog a sandwich?",
+    "choices": [
+      {
+        "text": "yes"
+      }, 
+      {
+        "text": "no"
+      }
+    ]
+  },
+  {
+    "text":"harry potter or percy jackson?",
+    "choices": [
+      {
+        "text": "the chosen one"
+      }, 
+      {
+        "text": "seaweed brain"
+      }
+    ]
+  },
+  {
+    "text":"do you love or hate musicals?",
+    "choices": [
+      {
+        "text": "love"
+      }, 
+      {
+        "text": "hate"
+      }
+    ]
+  },
+  {
+    "text":"xbox or ps4?",
+    "choices": [
+      {
+        "text": "xbox"
+      }, 
+      {
+        "text": "ps4"
+      },
+      {
+        "text": "wii"
+      }, 
+      {
+        "text": "video games are dumb"
+      }
+    ]
+  },
+  {
+    "text":"how do you pronounce gif?",
+    "choices": [
+      {
+        "text": "jif"
+      }, 
+      {
+        "text": "gif"
+      }
+    ]
+  },
+  {
+    "text":"dogs or cats?",
+    "choices": [
+      {
+        "text": "puppies"
+      }, 
+      {
+        "text": "kittens"
+      }
+    ]
+  }, 
+  {
+    "text":"red pill or blue pill?",
+    "choices": [
+      {
+        "text": "red, I'll take my chances"
+      }, 
+      {
+        "text": "blue, I'm ok with being ignorant"
+      }
+    ]
+  }, 
+  {
+    "text":"skinny jeans or mom jeans?",
+    "choices": [
+      {
+        "text": "skinny jeans"
+      }, 
+      {
+        "text": "mom jeans"
+      }
+    ]
+  }, 
+  {
+    "text":"cake or pie?",
+    "choices": [
+      {
+        "text": "cake"
+      }, 
+      {
+        "text": "pie"
+      }
+    ]
+  },  
+  {
+    "text":"soccer or football?",
+    "choices": [
+      {
+        "text": "soccer"
+      }, 
+      {
+        "text": "football"
+      },
+      {
+        "text": "they're the same??"
+      }
+    ]
+  },
+  {
+    "text":"star wars or star trek?",
+    "choices": [
+      {
+        "text": "may the force be with you"
+      }, 
+      {
+        "text": "vulcan"
+      }
+    ]
+  }, 
+  {
+    "text":"marvel or dc?",
+    "choices": [
+      {
+        "text": "marvel"
+      }, 
+      {
+        "text": "dc"
+      }
+    ]
+  }, 
+  {
+    "text":"are clowns scary?",
+    "choices": [
+      {
+        "text": "terrifying"
+      }, 
+      {
+        "text": "nope"
+      }
+    ]
+  }, 
+  {
+    "text":"do aliens exist?",
+    "choices": [
+      {
+        "text": "definitely"
+      }, 
+      {
+        "text": "probably not"
+      }
+    ]
+  }
+]

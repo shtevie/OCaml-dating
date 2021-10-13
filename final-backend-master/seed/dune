@@ -1,0 +1,4 @@
+(executable
+ (name seed)
+ (public_name seed)
+ (libraries src))

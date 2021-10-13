@@ -1,0 +1,13 @@
+[
+  { "text": "A", "choices": [{ "text": "a" }, { "text": "b" }] },
+  {
+    "text": "B",
+    "choices": [{ "text": "a" }, { "text": "b" }, { "text": "c" }]
+  },
+  { "text": "C", "choices": [{ "text": "a" }] },
+  { "text": "D", "choices": [{ "text": "a" }, { "text": "b" }] },
+  { "text": "E", "choices": [{ "text": "a" }, { "text": "b" }] },
+  { "text": "F", "choices": [{ "text": "a" }, { "text": "b" }] },   
+  { "text": "G", "choices": [{ "text": "a" }, { "text": "b" }] },
+  { "text": "H", "choices": [{ "text": "a" }, { "text": "b" }] }
+]

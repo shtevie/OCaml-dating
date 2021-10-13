@@ -1,0 +1,9 @@
+This is the installation instructions for the Python websocket server.
+
+1. pip install requirements.txt
+
+To start the server: 
+
+2. python ws.py
+
+If using requirements.txt doesn't work, you can install asyncio and websockets libraries manually with pip.

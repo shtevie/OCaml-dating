@@ -1,0 +1,9 @@
+This is the installation instructions for the backend.
+
+1. brew install pkg-config libev gmp
+2. opam install .
+4. make seed
+3. make dev
+
+Optionally, you can run make build and make test to build and test the code. 
+To view the docs, run make docs and the docs will be located in /_build/default/_doc/_html in a file called index.html.

@@ -1,0 +1,29 @@
+{
+  "users": {
+    "next_id": "4",
+    "cnt": "3",
+    "objs": {
+      "0": {
+        "o": {
+          "username": "user1",
+          "name": "user1",
+          "password": ""
+        }
+      },
+      "1": {
+        "o": {
+          "username": "user2",
+          "name": "user2",
+          "password": ""
+        }
+      },
+      "3": {
+        "o": {
+          "username": "user3",
+          "name": "user3",
+          "password": ""
+        }
+      }
+    }
+  }
+}

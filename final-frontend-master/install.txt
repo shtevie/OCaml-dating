@@ -1,0 +1,5 @@
+To install dependencies for the frontend:
+
+1. npm i
+
+Then navigate to /app and use npm start to start up the application.
